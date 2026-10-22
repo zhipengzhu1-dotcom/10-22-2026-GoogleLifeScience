@@ -55,4 +55,4 @@ _Avoid_: "essential gene" (ambiguous between one line and all lines)
 ## People
 
 **Reviewer Tier**
-The order in which the campaign seeks attention: (1) maintainers who review and merge PRs (in practice Nathan Hodson, with Preston Holmes also committing), (2) Joe Timmons, (3) the wider LinkedIn TechBio audience. Tiers 1 and 2 are approached in parallel. Tier 3 waits until the work has merged Upstream.
+The order in which the campaign seeks attention: (1) maintainers who review and merge PRs (in practice Nathan Hodson, with Preston Holmes also committing), (2) Joe Timmons, (3) the wider LinkedIn TechBio audience. Tier 2 is approached personally, outside this plan. Tier 3 waits until the work has merged Upstream.
