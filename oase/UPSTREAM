@@ -1,0 +1,6 @@
+repo: https://github.com/GoogleCloudPlatform/LifeSciences
+path: applications/open-agentic-science-engine
+commit: ac29f202795239ba2a2a964e643ce74aa4d26158
+committed: 2026-10-21T11:58:04-07:00
+imported: 2026-10-22T06:15:47Z
+note: LICENSE is the monorepo root Apache-2.0 LICENSE at that commit, copied here because the app directory has none. It is not part of any Port.
