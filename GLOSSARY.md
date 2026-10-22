@@ -18,7 +18,7 @@ _Avoid_: "the engine repo" (OASE is not its own repository)
 The official GoogleCloudPlatform/LifeSciences repository, where OASE contributions must ultimately be merged.
 
 **Working Copy**
-The private copy of OASE inside this repo, where contributions are drafted. It is pinned to a recorded Upstream commit.
+The copy of OASE inside this repo, where contributions are drafted. It is pinned to a recorded Upstream commit.
 _Avoid_: "fork" (the fork is a separate thing, used only to deliver a Port)
 
 **Port**
